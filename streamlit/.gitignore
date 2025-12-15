@@ -1,0 +1,6 @@
+tauenv/
+__pycache__/
+*.pyc
+*.csv
+.vscode/
+.DS_Store
